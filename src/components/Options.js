@@ -20,9 +20,11 @@ function Options(props) {
       <nav>
         <button onClick={start}>
           <FontAwesomeIcon icon={faPlay} />
+          Play
         </button>
         <button onClick={soundToggle}>
           <FontAwesomeIcon icon={soundOn ? faVolumeUp : faVolumeMute} />
+          {toggle}
         </button>
         <a
           className="button"
@@ -31,6 +33,7 @@ function Options(props) {
           rel="noopener noreferrer"
         >
           <FontAwesomeIcon icon={faInstagramSquare} />
+          IG
         </a>
       </nav>
       <ul className="deck options fadein">{children}</ul>

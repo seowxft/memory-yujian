@@ -35,7 +35,8 @@ nav {
 nav button,
 nav .button {
   border: 0;
-  padding: 5px 10px 5px 5px;
+  /* padding: 5px 10px 5px 5px; */
+  padding: 3px 5px 3px 2px;
   font-size: 0.7em;
   border-radius: 30px;
   background-color: #eee;
@@ -51,9 +52,8 @@ button svg,
 button .svg-inline--fa,
 .button svg,
 .button .svg-inline--fa {
-  margin-right: 10px;
+  margin-right: 7px;
   background: #ccc;
-
   color: #2dc5d3;
   padding: 10px;
   vertical-align: middle;
@@ -163,13 +163,13 @@ button .svg-inline--fa,
 
 .errors {
   color: black;
-  font-size: 0.8em;
+  font-size: 0.7em;
   /* color: #666; */
 }
 
 .time {
   color: black;
-  font-size: 0.8em;
+  font-size: 0.7em;
   /* color: #666; */
 }
 
@@ -241,6 +241,29 @@ button .svg-inline--fa,
 }
 
 /* Responsive */
+@media all and (min-width: 320px) {
+  nav button,
+  nav .button {
+    padding: 4px 8px 4px 4px;
+    font-size: 0.7em;
+  }
+
+  .errors {
+    font-size: 0.8em;
+  }
+
+  .time {
+    font-size: 0.8em;
+  }
+}
+
+@media all and (min-width: 380px) {
+  nav button,
+  nav .button {
+    padding: 5px 10px 5px 5px;
+  }
+}
+
 @media all and (min-width: 400px) {
   nav button,
   nav .button {
@@ -252,7 +275,6 @@ button .svg-inline--fa,
   }
 
   .time {
-    color: black;
     font-size: 0.9em;
   }
 }
