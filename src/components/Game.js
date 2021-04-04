@@ -31,7 +31,6 @@ function Game(props) {
       <nav>
         <button onClick={stop}>
           <FontAwesomeIcon icon={faHandPointLeft} />
-          Back
         </button>
         <span className="errors">
           Errors: <strong>{errors}</strong>
@@ -44,7 +43,6 @@ function Game(props) {
         </span>
         <button onClick={reshuffle}>
           <FontAwesomeIcon icon={faRandom} />
-          Shuffle
         </button>
       </nav>
       <div className="deck fadein">{cards}</div>
