@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/memory-yujian/precache-manifest.86672089ea36709edbecc32d414ac644.js"
+  "/memory-yujian/precache-manifest.a8a10e7320c7901dfe5dea626b257549.js"
 );
 
 workbox.clientsClaim();

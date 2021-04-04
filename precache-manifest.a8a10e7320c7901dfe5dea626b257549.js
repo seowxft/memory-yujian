@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "51711d3ae6a3b9ef8f20",
+    "revision": "4bdc04770e642617ffa9",
     "url": "/memory-yujian/static/css/main.c46906b4.chunk.css"
   },
   {
-    "revision": "51711d3ae6a3b9ef8f20",
-    "url": "/memory-yujian/static/js/main.88719c09.chunk.js"
+    "revision": "4bdc04770e642617ffa9",
+    "url": "/memory-yujian/static/js/main.dfe7ef04.chunk.js"
   },
   {
     "revision": "0028a105eba61302ad01",
@@ -20,10 +20,6 @@ self.__precacheManifest = [
     "url": "/memory-yujian/static/media/casual-yujian.62c736a0.png"
   },
   {
-    "revision": "7f05174362f1a87d004fe840099d3372",
-    "url": "/memory-yujian/static/media/icefan-pianfeng.7f051743.png"
-  },
-  {
     "revision": "2dcb12599f685b62e94e89161029dd13",
     "url": "/memory-yujian/static/media/lyb-zhanying.2dcb1259.png"
   },
@@ -32,28 +28,32 @@ self.__precacheManifest = [
     "url": "/memory-yujian/static/media/yaoguai-anyi.35c12147.png"
   },
   {
+    "revision": "77b0af830e04a5e5651ebdcce3b189b9",
+    "url": "/memory-yujian/static/media/dd-zhaohan.77b0af83.png"
+  },
+  {
     "revision": "783433c0703029f5e9852d9e5f9155ee",
     "url": "/memory-yujian/static/media/ploughdep-suifeng.783433c0.png"
+  },
+  {
+    "revision": "7f05174362f1a87d004fe840099d3372",
+    "url": "/memory-yujian/static/media/icefan-pianfeng.7f051743.png"
   },
   {
     "revision": "d6e836ddccdb529800435bf69ecf23f6",
     "url": "/memory-yujian/static/media/orienody-lanzhi.d6e836dd.png"
   },
   {
-    "revision": "212b4d9322a55228b1d1a576feffac63",
-    "url": "/memory-yujian/static/media/baituo-yihan.212b4d93.png"
-  },
-  {
-    "revision": "77b0af830e04a5e5651ebdcce3b189b9",
-    "url": "/memory-yujian/static/media/dd-zhaohan.77b0af83.png"
+    "revision": "5c124f183e5f938471caf2a8aa4c6208",
+    "url": "/memory-yujian/static/media/lecoup-yanmo.5c124f18.png"
   },
   {
     "revision": "99f716fd03eb97313d2f1e890927c598",
     "url": "/memory-yujian/static/media/findyour-canyang.99f716fd.png"
   },
   {
-    "revision": "5c124f183e5f938471caf2a8aa4c6208",
-    "url": "/memory-yujian/static/media/lecoup-yanmo.5c124f18.png"
+    "revision": "212b4d9322a55228b1d1a576feffac63",
+    "url": "/memory-yujian/static/media/baituo-yihan.212b4d93.png"
   },
   {
     "revision": "aa1c01defe4a4fcedc452f44b82a3bd3",
@@ -64,7 +64,7 @@ self.__precacheManifest = [
     "url": "/memory-yujian/static/media/yituo-flip.18f47983.png"
   },
   {
-    "revision": "a2f6d5f2ffcfd65cd552249c36a83e35",
+    "revision": "d20e2eb4fe8271e9551beba6da86384f",
     "url": "/memory-yujian/index.html"
   }
 ];
