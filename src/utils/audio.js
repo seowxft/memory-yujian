@@ -1,5 +1,8 @@
-const au_play = new Audio("%PUBLIC_URL%/audio/drop.mp3");
-const au_result = new Audio("%PUBLIC_URL%/audio/shuffle.mp3");
+// const au_play = new Audio("%PUBLIC_URL%/audio/drop.mp3");
+// const au_result = new Audio("%PUBLIC_URL%/audio/shuffle.mp3");
+
+const au_play = new Audio(`${process.env.PUBLIC_URL}/audio/drop.mp3`);
+const au_result = new Audio(`${process.env.PUBLIC_URL}/audio/shuffle.mp3`);
 
 function result(sound) {
   let url = `${process.env.PUBLIC_URL}/audio/${sound}.mp3`;
