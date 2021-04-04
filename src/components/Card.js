@@ -26,7 +26,7 @@ function Card(props) {
         <p>
           <img
             className="frontimg"
-            src={value}
+            src={process.env.PUBLIC_URL + value}
             alt="card stim"
             crossOrigin="anonymous"
           />
