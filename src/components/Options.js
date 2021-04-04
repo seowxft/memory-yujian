@@ -12,7 +12,7 @@ function Options(props) {
   const { children, start, bg, soundToggle } = props;
 
   var soundOn = children[1];
-  // const toggle = soundOn ? "On" : "Off";
+  const toggle = soundOn ? "On" : "Off";
 
   return (
     <main className={"app " + bg}>
