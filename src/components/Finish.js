@@ -1,7 +1,8 @@
 import React, { useEffect } from "react";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faSlidersH, faRedo } from "@fortawesome/free-solid-svg-icons";
-import { faGithub } from "@fortawesome/free-brands-svg-icons";
+// import { faGithub } from "@fortawesome/free-brands-svg-icons";
+import { faInstagramSquare } from "@fortawesome/free-brands-svg-icons";
 import audio from "../utils/audio";
 import Header from "./Header";
 import PropTypes from "prop-types";
@@ -58,8 +59,13 @@ function Finish(props) {
             <FontAwesomeIcon icon={faSlidersH} />
             Options
           </button>
-          <a className="button" href="https://github.com/seowxft/">
-            <FontAwesomeIcon icon={faGithub} />
+          <a
+            className="button"
+            href="https://www.instagram.com/tysunkete/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <FontAwesomeIcon icon={faInstagramSquare} />
             Github
           </a>
           <br></br>

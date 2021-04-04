@@ -1,8 +1,8 @@
-const au_play = new Audio('/audio/drop.mp3');
-const au_result = new Audio('/audio/shuffle.mp3');
+const au_play = new Audio("/audio/drop.mp3");
+const au_result = new Audio("/audio/shuffle.mp3");
 
 function result(sound) {
-  let url = `${window.location.href}audio/${sound}.mp3`;
+  let url = `https://github.com/seowxft/memory-yujian/public/audio/${sound}.mp3`;
   if (url !== au_result.src) {
     au_result.src = url;
   }
@@ -11,7 +11,7 @@ function result(sound) {
 }
 
 function play(sound) {
-  let url = `${window.location.href}audio/${sound}.mp3`;
+  let url = `https://github.com/seowxft/memory-yujian/public/audio/${sound}.mp3`;
   if (url !== au_play.src) {
     au_play.src = url;
   }
@@ -22,6 +22,6 @@ function play(sound) {
 const audio = {
   play,
   result,
-}
+};
 
 export default audio;
