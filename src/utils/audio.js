@@ -1,12 +1,8 @@
-const au_play = new Audio(
-  "https://github.com/seowxft/memory-yujian/blob/main/public/audio/drop.mp3"
-);
-const au_result = new Audio(
-  "https://github.com/seowxft/memory-yujian/blob/main/public/audio/shuffle.mp3"
-);
+const au_play = new Audio("%PUBLIC_URL%/audio/drop.mp3");
+const au_result = new Audio("%PUBLIC_URL%/audio/shuffle.mp3");
 
 function result(sound) {
-  let url = `https://github.com/seowxft/memory-yujian/blob/main/public/audio/${sound}.mp3`;
+  let url = `${process.env.PUBLIC_URL}/audio/${sound}.mp3`;
   if (url !== au_result.src) {
     au_result.src = url;
   }
@@ -15,7 +11,7 @@ function result(sound) {
 }
 
 function play(sound) {
-  let url = `https://github.com/seowxft/memory-yujian/blob/main/public/audio/${sound}.mp3`;
+  let url = `${process.env.PUBLIC_URL}/audio/${sound}.mp3`;
   if (url !== au_play.src) {
     au_play.src = url;
   }
