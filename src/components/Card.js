@@ -24,7 +24,12 @@ function Card(props) {
       <div className="back"></div>
       <div className="front">
         <p>
-          <img className="frontimg" src={value} alt="card stim" />
+          <img
+            className="frontimg"
+            src={value}
+            alt="card stim"
+            crossOrigin="anonymous"
+          />
         </p>
       </div>
     </div>
