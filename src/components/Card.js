@@ -26,7 +26,7 @@ function Card(props) {
         <p>
           <img
             className="frontimg"
-            src={value}
+            src="https://github.com/seowxft/memory-yujian/blob/main/public/img/2_zhanying/1.png"
             alt="card stim"
             crossOrigin="anonymous"
           />
