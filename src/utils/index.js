@@ -36,12 +36,12 @@ export function genDeckImage(items) {
 // urls for the images in each deck chosen
 // these images have to be in the public folder
 export const images = [
-  "https://github.com/seowxft/memory-yujian/blob/main/public/img/1_yujian/1.png",
-  "https://github.com/seowxft/memory-yujian/blob/main/public/img/1_yujian/2.png",
-  "https://github.com/seowxft/memory-yujian/blob/main/public/img/1_yujian/3.png",
-  "https://github.com/seowxft/memory-yujian/blob/main/public/img/1_yujian/4.png",
-  "https://github.com/seowxft/memory-yujian/blob/main/public/img/1_yujian/5.png",
-  "https://github.com/seowxft/memory-yujian/blob/main/public/img/1_yujian/6.png",
+  "https://github.com/seowxft/memory-yujian/blob/main/public/img/1_yujian/1.png?raw=true",
+  "https://github.com/seowxft/memory-yujian/blob/main/public/img/1_yujian/2.png?raw=true",
+  "https://github.com/seowxft/memory-yujian/blob/main/public/img/1_yujian/3.png?raw=true",
+  "https://github.com/seowxft/memory-yujian/blob/main/public/img/1_yujian/4.png?raw=true",
+  "https://github.com/seowxft/memory-yujian/blob/main/public/img/1_yujian/5.png?raw=true",
+  "https://github.com/seowxft/memory-yujian/blob/main/public/img/1_yujian/6.png?raw=true",
 ];
 
 export const images2 = [
