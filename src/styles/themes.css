@@ -6,70 +6,70 @@ back is the one showing by default */
 }
 .card.casual-yujian .back,
 .finish.casual-yujian {
-  background-image: url(../img/casual-yujian.png);
+  background-image: url(../img/casual-yujian.jpg);
 }
 .card.lyb-zhanying .front {
   color: #ee5522;
 }
 .card.lyb-zhanying .back,
 .finish.lyb-zhanying {
-  background-image: url(../img/lyb-zhanying.png);
+  background-image: url(../img/lyb-zhanying.jpg);
 }
 .card.wintery-sunburst .front {
   color: #ffffff;
 }
 .card.icefan-pianfeng .back,
 .finish.icefan-pianfeng {
-  background-image: url(../img/icefan-pianfeng.png);
+  background-image: url(../img/icefan-pianfeng.jpg);
 }
 .card.yaoguai-anyi .front {
   color: #ffffff;
 }
 .card.yaoguai-anyi .back,
 .finish.yaoguai-anyi {
-  background-image: url(../img/yaoguai-anyi.png);
+  background-image: url(../img/yaoguai-anyi.jpg);
 }
 .card.dd-zhaohan .front {
   color: #000000;
 }
 .card.dd-zhaohan .back,
 .finish.dd-zhaohan {
-  background-image: url(../img/dd-zhaohan.png);
+  background-image: url(../img/dd-zhaohan.jpg);
 }
 .card.orienody-lanzhi .front {
   color: #ffff00;
 }
 .card.orienody-lanzhi .back,
 .finish.orienody-lanzhi {
-  background-image: url(../img/orienody-lanzhi.png);
+  background-image: url(../img/orienody-lanzhi.jpg);
 }
 .card.ploughdep-suifeng .front {
   color: #000000;
 }
 .card.ploughdep-suifeng .back,
 .finish.ploughdep-suifeng {
-  background-image: url(../img/ploughdep-suifeng.png);
+  background-image: url(../img/ploughdep-suifeng.jpg);
 }
 .card.lecoup-yanmo .front {
   color: #cc5577;
 }
 .card.lecoup-yanmo .back,
 .finish.lecoup-yanmo {
-  background-image: url(../img/lecoup-yanmo.png);
+  background-image: url(../img/lecoup-yanmo.jpg);
 }
 .card.baituo-yihan .front {
   color: #330033;
 }
 .card.baituo-yihan .back,
 .finish.baituo-yihan {
-  background-image: url(../img/baituo-yihan.png);
+  background-image: url(../img/baituo-yihan.jpg);
 }
 .card.findyour-canyang .front {
   color: #00bb77;
 }
 .card.findyour-canyang .back,
 .finish.findyour-canyang {
-  background-image: url(../img/findyour-canyang.png);
+  background-image: url(../img/findyour-canyang.jpg);
 }
 
 .card.nightcomet-senhe .front {
@@ -77,7 +77,7 @@ back is the one showing by default */
 }
 .card.nightcomet-senhe .back,
 .finish.nightcomet-senhe {
-  background-image: url(../img/nightcomet-senhe.png);
+  background-image: url(../img/nightcomet-senhe.jpg);
 }
 
 .card.yituo .front {
@@ -85,5 +85,5 @@ back is the one showing by default */
 }
 .card.yituo .back,
 .finish.yituo {
-  background-image: url(../img/yituo-flip.png);
+  background-image: url(../img/yituo-flip.jpg);
 }
