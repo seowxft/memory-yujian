@@ -35,7 +35,6 @@ function Finish(props) {
   return (
     <div className={"finish " + bg}>
       <div className="content">
-        <Header />
         <h3>
           Congrats!&nbsp;
           <span aria-label="clap" role="img">
