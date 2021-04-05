@@ -1,6 +1,6 @@
 # 张雨剑 Memory Game
 
-A memory game with React Hooks. Play it here!
+A memory game with React Hooks. [Play it here!](https://seowxft.github.io/memory-yujian)
 
 ## Modifications:
 
@@ -12,6 +12,11 @@ A memory game with React Hooks. Play it here!
 6. Timer count (milliseconds)
 
 ## Screenshot
+
+<p align="center">
+  <img src="http://seowxft.github.io/memory-yujian/public/screenshot1.png" alt="Screenshot" width="300"/>
+    <img src="http://seowxft.github.io/memory-yujian/public/screenshot2.png" alt="Screenshot" width="300"/>
+</p>
 
 ## Attribution
 
