@@ -2,7 +2,7 @@ import React, { useEffect } from "react";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faSlidersH, faRedo } from "@fortawesome/free-solid-svg-icons";
 // import { faGithub } from "@fortawesome/free-brands-svg-icons";
-import { faInstagramSquare } from "@fortawesome/free-brands-svg-icons";
+// import { faInstagramSquare } from "@fortawesome/free-brands-svg-icons";
 import audio from "../utils/audio";
 import Header from "./Header";
 import PropTypes from "prop-types";
