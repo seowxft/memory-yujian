@@ -59,15 +59,6 @@ function Finish(props) {
             <FontAwesomeIcon icon={faSlidersH} />
             Options
           </button>
-          <a
-            className="button"
-            href="https://www.instagram.com/tysunkete/"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <FontAwesomeIcon icon={faInstagramSquare} />
-            Github
-          </a>
           <br></br>
         </nav>
       </div>
