@@ -14,8 +14,8 @@ A memory game with React Hooks. [Play it here!](https://seowxft.github.io/memory
 ## Screenshot
 
 <p align="center">
-  <img src="http://seowxft.github.io/memory-yujian/public/screenshot1.png" alt="Screenshot" width="300"/>
-    <img src="http://seowxft.github.io/memory-yujian/public/screenshot2.png" alt="Screenshot" width="300"/>
+  <img src="%PUBLIC_URL%screenshot1.png" alt="Screenshot" width="300"/>
+    <img src="%PUBLIC_URL%/screenshot2.png" alt="Screenshot" width="300"/>
 </p>
 
 ## Attribution
